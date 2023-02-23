@@ -104,3 +104,14 @@
   label {
     color: grey;
   }
+  @media screen and (max-width: 750px) {
+    .modal {
+      top: 5%;
+    }
+    h2 {
+      font-size: 17px;
+    }
+    label {
+      font-size: 12px;
+    }
+  }
